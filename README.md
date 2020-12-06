@@ -20,6 +20,12 @@ Step 6. Enjoy
 ```
 
 ```
+Flask
+https://flask.palletsprojects.com/en/1.1.x/
+
 Semantic UI. 
-https://semantic-ui.com 
+https://semantic-ui.com
+
+sqlite
+https://sqlite.org/index.html
 ```
