@@ -1,3 +1,5 @@
+
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 # Flask_Todo
 A simple Todo app created with Flask, Python, sqlite and Semantic UI
 
