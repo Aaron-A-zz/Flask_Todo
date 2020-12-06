@@ -18,3 +18,8 @@ Step 5. Run python3 app.py
 
 Step 6. Enjoy
 ```
+
+```
+Semantic UI. 
+https://semantic-ui.com 
+```
