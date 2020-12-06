@@ -12,7 +12,7 @@ Step 2. CD into the main folder
 
 Step 3. Run python3 -m venv venv  
 
-Step 4. Run venv/bin/activate
+Step 4. Run source venv/bin/activate
 
 Step 5. Run python3 app.py
 
