@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/Users/swift/Desktop/todo/venv"
+VIRTUAL_ENV="/Users/swift/Documents/GitHub/Flask_Todo/venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
