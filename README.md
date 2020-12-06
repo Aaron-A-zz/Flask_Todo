@@ -15,4 +15,6 @@ Step 3. Run python3 -m venv venv
 Step 4. Run venv/bin/activate
 
 Step 5. Run python3 app.py
+
+Step 6. Enjoy
 ```
