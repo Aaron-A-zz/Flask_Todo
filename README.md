@@ -33,5 +33,5 @@ https://sqlite.org/index.html
 ```
 # Need Help?
 ```
-If you run into issues hit me up on twiiter: 
+If you run into issues hit me up on twiiter: @aaroniscoding
 ```
